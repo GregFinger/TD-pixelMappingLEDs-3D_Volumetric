@@ -19,4 +19,4 @@ There's a DAT named LEDRGBData. This has all the rgb data in three columns: Cd(0
 
 This DAT data can then go directly out to your led controller.
 
-See here for a GLSL method: https://github.com/wuestenarchitekten/collection/tree/master/LEDCubeRender
+See here for a Depth Peel + GLSL method: https://github.com/wuestenarchitekten/collection/tree/master/LEDCubeRender
