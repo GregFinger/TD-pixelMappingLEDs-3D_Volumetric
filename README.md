@@ -20,3 +20,5 @@ There's a DAT named LEDRGBData. This has all the rgb data in three columns: Cd(0
 This DAT data can then go directly out to your led controller.
 
 See here for a Depth Peel + GLSL method: https://github.com/wuestenarchitekten/collection/tree/master/LEDCubeRender
+
+(actually that seems to be some method based on Depth Peeling, but ratherhave multiple cameras instead of multiple peels. The basis for a true Depth Peel method can be found here: [link](https://www.derivative.ca/forum/viewtopic.php?f=27&t=9938&fbclid=IwAR3o58_C2G5ODOD4FVqCMZW7Rm3OMWR8oPyU6OMMGhSWrNOKXv0jR3GiaL0#p37718))
