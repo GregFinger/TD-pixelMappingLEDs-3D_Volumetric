@@ -3,7 +3,7 @@
 LED mapping with arbitrary 3D Geometric arrangements.
 Uses SOP Point Color attribute and Group SOP bounds to control colors.
 
-This is a visualizer but also has the ability to send the rgb color data out to your led controller.
+This is a visualizer but also has the ability to send the rgb color data out to your led controller. The visualizer is an arcball camera and can be manipulated with a mouse.
 
 ![screenshot](/img/viz.png)
 
