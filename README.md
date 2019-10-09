@@ -13,9 +13,9 @@ For example with this box arrangement shows the led pixel indices.
 
 ![screenshot](/img/addressing.png)
 
-There's a CHOP named LED_Data. The first 3 samples correspond to the RGB of the first sop point/led index. The next 3 samples are for the second. point/led index , and so on.
+There's a CHOP named LED_Data. The first 3 samples correspond to the RGB of the first sop point/led index. The next 3 samples are for the second point/led index , and so on.
 
-![screenshot](/img/led_data.png)
+![screenshot](/img/led_data.PNG)
 
 This data can then go directly out to your led controller.
 
